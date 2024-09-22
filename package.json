@@ -1,0 +1,27 @@
+{
+  "name": "express-logging-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "# Here are some routes for testing application",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "morgan": "^1.10.0",
+    "uuid": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/packagecode/express-logging-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/packagecode/express-logging-backend/issues"
+  },
+  "homepage": "https://github.com/packagecode/express-logging-backend#readme"
+}
