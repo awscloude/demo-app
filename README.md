@@ -5,7 +5,6 @@
 1. / The root route
 2. /test Another route for test
 3. /history get the user history
-o
 
 ======================
 For Task 1 > go to folder infra>k8s
